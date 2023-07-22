@@ -1,1 +1,1 @@
-# HTML, CSS and Javascript dashbord table template
+# HTML, CSS and Javascript dashboard table template
